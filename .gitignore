@@ -2,4 +2,4 @@
 .coverage
 htmlcov
 .venv
-.env*
+.env.local
