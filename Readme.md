@@ -23,3 +23,8 @@ The following configurations are made
 - To start the HTTP server, run `./run.sh` this will sart a usgi server using `uvicorn`
 - To start the celery worker, run `./worker-start.sh`
 - To run tests, run `./tests-start.sh` a `coverage` file will be created with the test coverage report
+
+## Post startup
+
+After getting started, and the server is running, checkout http://localhost:8000/docs/ to see what
+is already setup out of the box.
